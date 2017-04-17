@@ -13,7 +13,7 @@
 
 
 # 项目依赖
-- *IDE* Visual Studio Code, 跨平台的IDE
-- *抓取数据* 使用python，跨平台，轻量化
-- *数据存储* TDB
-- *地图显示* TDB
+- **IDE** Visual Studio Code, 跨平台的IDE
+- **抓取数据** 使用python，跨平台，轻量化
+- **数据存储** TDB
+- **地图显示** TDB
